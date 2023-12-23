@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+*.pkl
+venv/
+.vscode/
+activate
+.env
+test.ipynb
+*.csv
